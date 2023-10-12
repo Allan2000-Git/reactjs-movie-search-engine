@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+body{
+  font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+background: linear-gradient(rgb(0 0 0 / 80%), rgb(0 0 0 / 80%)),
+              url(https://wallpaperaccess.com/full/1512223.jpg);
+  background-size: cover;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+}
+
+:root{
+  --logo-color:#fa8804;
+  --logo-text-color:#54eee5;
+  --logo-secondary-color:#134ba9;
+}
